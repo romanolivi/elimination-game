@@ -1,5 +1,5 @@
-team_1 = ["Arthur", "Billy", "Carter", "Danny", "Evan"]
-team_2 = ["Freddie", "Gary", "Harry", "Isabel", "Jordan"]
+team_1 = ["Arthur", "Billy", "Carter", "Danny"]
+team_2 = ["Freddie", "Gary", "Harry", "Isabel"]
 
 def playGame(team_1, team_2)
     
